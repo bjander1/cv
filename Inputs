@@ -1,0 +1,24 @@
+
+
+<form class="" action="index.html" method="post">
+  <label>Your Name:</label>
+  <input type="text" name="" value="">
+  <br>
+  <label>Date</label>
+  <input type="date" name="" value="">
+  <br>
+  <label>Upload</label>
+  <input type="file" name="" value="">
+  <br>
+  <label>Do you like frid chicken?</label>
+  <input type="radio" name="" value="">
+  <br>
+  <label for="">Password</label>
+  <input type="password" name="" value="">
+  <br>
+  <input type="checkbox" name="" value="">
+  <label>Sign up for email list</label>
+  <br>
+  <input type="submit" name="">
+
+</form>
